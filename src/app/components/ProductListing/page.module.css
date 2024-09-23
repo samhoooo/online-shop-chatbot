@@ -1,0 +1,14 @@
+.heading {
+  margin: 12px 0;
+}
+
+.productsGrid {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.productCard {
+  margin: 12px 0;
+  width: 500px;
+}
