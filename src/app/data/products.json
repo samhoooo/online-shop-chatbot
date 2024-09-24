@@ -1,26 +1,102 @@
 [
   {
     "id": 1,
-    "name": "Product 1",
-    "price": 29.99,
-    "image": "https://via.placeholder.com/150"
+    "name": "Classic Leather Jacket",
+    "price": 120.99,
+    "details": "A timeless leather jacket with a sleek design and premium finish.",
+    "image": "https://via.placeholder.com/150",
+    "color": "Black",
+    "category": "Outerwear",
+    "gender": "Men"
   },
   {
     "id": 2,
-    "name": "Product 2",
-    "price": 49.99,
-    "image": "https://via.placeholder.com/150"
+    "name": "Floral Summer Dress",
+    "price": 79.49,
+    "details": "Lightweight and comfortable summer dress with a vibrant floral pattern.",
+    "image": "https://via.placeholder.com/150",
+    "color": "Red",
+    "category": "Dresses",
+    "gender": "Women"
   },
   {
     "id": 3,
-    "name": "Product 3",
-    "price": 19.99,
-    "image": "https://via.placeholder.com/150"
+    "name": "Slim Fit Jeans",
+    "price": 59.99,
+    "details": "Slim fit jeans made with stretchable fabric for all-day comfort.",
+    "image": "https://via.placeholder.com/150",
+    "color": "Blue",
+    "category": "Pants",
+    "gender": "Unisex"
   },
   {
     "id": 4,
-    "name": "Product 4",
-    "price": 39.99,
-    "image": "https://via.placeholder.com/150"
+    "name": "Wool Beanie",
+    "price": 19.99,
+    "details": "Soft and warm wool beanie, perfect for cold weather.",
+    "image": "https://via.placeholder.com/150",
+    "color": "Gray",
+    "category": "Accessories",
+    "gender": "Unisex"
+  },
+  {
+    "id": 5,
+    "name": "Running Sneakers",
+    "price": 89.99,
+    "details": "Lightweight and durable running sneakers with excellent grip.",
+    "image": "https://via.placeholder.com/150",
+    "color": "White",
+    "category": "Shoes",
+    "gender": "Women"
+  },
+  {
+    "id": 6,
+    "name": "Denim Jacket",
+    "price": 110.5,
+    "details": "Classic denim jacket with a modern cut and a vintage wash.",
+    "image": "https://via.placeholder.com/150",
+    "color": "Blue",
+    "category": "Outerwear",
+    "gender": "Men"
+  },
+  {
+    "id": 7,
+    "name": "High-Waisted Shorts",
+    "price": 45.0,
+    "details": "Stylish high-waisted shorts for a casual and comfortable look.",
+    "image": "https://via.placeholder.com/150",
+    "color": "Light Blue",
+    "category": "Bottoms",
+    "gender": "Women"
+  },
+  {
+    "id": 8,
+    "name": "Woolen Scarf",
+    "price": 25.99,
+    "details": "Cozy woolen scarf available in multiple colors, ideal for winter.",
+    "image": "https://via.placeholder.com/150",
+    "color": "Burgundy",
+    "category": "Accessories",
+    "gender": "Unisex"
+  },
+  {
+    "id": 9,
+    "name": "Graphic T-Shirt",
+    "price": 29.99,
+    "details": "Soft cotton t-shirt with a trendy graphic print.",
+    "image": "https://via.placeholder.com/150",
+    "color": "White",
+    "category": "Tops",
+    "gender": "Unisex"
+  },
+  {
+    "id": 10,
+    "name": "Ankle Boots",
+    "price": 135.75,
+    "details": "Leather ankle boots with a sleek design and durable soles.",
+    "image": "https://via.placeholder.com/150",
+    "color": "Brown",
+    "category": "Shoes",
+    "gender": "Women"
   }
 ]
