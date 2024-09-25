@@ -1,14 +1,21 @@
 .heading {
-  margin: 12px 0;
+  margin-bottom: 24px;
 }
 
 .productsGrid {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 .productCard {
-  margin: 12px 0;
+  margin: 24px 0;
   width: 500px;
+}
+
+.detailsButton {
+  margin-top: 12px;
+  font-size: 16px;
+  padding: 4px 8px;
 }

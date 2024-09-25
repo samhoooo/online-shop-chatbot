@@ -15,7 +15,7 @@ function ProductListing() {
 
   return (
     <div>
-      <h1 className={styles.heading}>Product Listing</h1>
+      <h1 className={styles.heading}>Fashion</h1>
       <div className={styles.productsGrid}>
         {products.map((product) => (
           <div key={product.id} className={styles.productCard}>
@@ -28,7 +28,7 @@ function ProductListing() {
             />
             <h2>{product.name}</h2>
             <p>${product.price.toFixed(2)}</p>
-            <button>Add to Cart</button>
+            <button className={styles.detailsButton}>Details</button>
           </div>
         ))}
       </div>
